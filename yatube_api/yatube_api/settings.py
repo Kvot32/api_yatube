@@ -1,5 +1,5 @@
 """Django settings for yatube project."""
-from datetime import timedelta
+
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
